@@ -1,0 +1,2 @@
+potencia :: Int -> Int 
+potencia
